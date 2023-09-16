@@ -9,7 +9,7 @@ body{
 }
 .one{
     border: 1px solid black;
-    height: 500px;
+    height: 550px;
     width: 350px;
     position: absolute;
     top: 50%;
@@ -29,7 +29,7 @@ p{
     margin-left: 24px;
 }
 input,label{
-    height: 3em;
+    height: 2.5em;
     border-radius: 0.5em;
     margin-left: 15px;
 }
