@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    background-clip:url(/videos/pexels_videos_2611250\ \(2160p\).mp4);
+}
+video{
+     position: absolute;
+    right: 0;
+    bottom: 0px;
+    min-width: 100%;
+    min-height: 100%;
+}
+.log{
+    position: relative;
+    z-index: 2;
+    padding: 5em;
+    width: 200px;
+    height: 230px;
+    margin-top: 100px;
+    font: white;
+    margin-left: 570px;
+    border-radius: 1em;
+    border: solid 1px white;
+    background-color: transparent;
+}
+input{
+    background-color: transparent;
+    height: 2.7em;
+    width: 250px;
+    margin-left: -30px;
+    margin-top: -70px;
+}
+input:hover{
+    background-color:white;
+    border-radius: 0.6em;
+    height: 2.4em;
+}
+.i{
+    margin-top: -53px;
+}button{
+    border-radius: 0.6em;
+    margin-left: 40px;
+    height: 2.4em;
+    width:60%;
+    background-color: whitesmoke;
+    color: black;
+}
+button:hover{
+    height: 3em;
+}
