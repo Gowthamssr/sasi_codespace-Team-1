@@ -1,0 +1,40 @@
+body{
+    height: 1000px;
+}
+.logo{
+ 
+    filter: grayscale(100);
+}
+image{
+    width: 50%;
+}
+.head{
+    text-align: center;
+    margin-top: -21px;
+    
+}
+table{
+    margin-left: 200px;
+    width: 1000px;
+}
+table,td{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+tr,td{
+    height: 36px;
+    border-top: 1px solid black;
+    
+}
+input{
+    text-decoration: none;
+    border: 0px solid white;
+}
+input:active{
+    border: 0px solid white;
+}
+.i{
+    border: 0px solid white;
+}
