@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(214, 233, 240);
+}
+.main {
+    display: flex;
+    flex-direction:column;
+}
+.one{
+    position: absolute;
+    background-color: white;
+    width: 600px;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-top-color: blueviolet;
+    border-radius: 0.7em;
+    border-top-color: violet initial;
+}
+.h2{
+    text-align: center;
+}
+.h4{
+    margin-left: 30px;
+    font-weight: 300;
+    color: rgb(14, 13, 13);
+    font-family: 'Times New Roman', Times, serif;
+}
+.mail{
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(97, 91, 91);
+    padding: 9px;
+}
+.switch{
+    display: inline;
+    margin: 10px;
+    
+}
+.required{
+    margin-left: 30px;
+    color: rgb(233, 52, 52);
+}
+
+.two{
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    width: 596px;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 0.6em;
+    height: 120px;
+ 
+}
+.em{
+    margin-left: 25px;
+}
+.in{
+    margin-left: 55px;
+    margin-top: -26px;
+    border-bottom: 3px;
+    border-left: 9px;
+}
+input{
+    margin-left: 20px;
+    height: 25px;
+    width: 20px;
+}
+.three
+{
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    width: 596px;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 0.6em;
+    height: 120px;
+}
+.text{
+    width: 40%;
+    border: collapse;
+    box-decoration-break: slice;
+}
